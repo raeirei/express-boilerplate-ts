@@ -19,7 +19,7 @@ src/
 
 ### Base URL: `http://localhost:3000`
 
-- `GET /health` - Health check
+- `GET /` - Health check
 - `POST /api/users` - Create user
 - `GET /api/users` - Get all users
 - `GET /api/users/:id` - Get user by ID
